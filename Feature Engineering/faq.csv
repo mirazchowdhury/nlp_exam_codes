@@ -1,0 +1,11 @@
+question,answer,category,intent,synonyms
+Do you offer delivery?,"Yes, we provide delivery service for all orders above 500 BDT.",Shipping,inquire_shipping,"delivery, shipping, send items, home delivery"
+Where are you located?,"We are located at 123 Main Road, Dhaka.",Location,ask_location,"address, location, where are you, shop location"
+Can I return a product?,You can return a product within 7 days of delivery.,Returns,ask_return_policy,"refund, return item, exchange, return policy"
+Do you sell mobile phones?,"Sorry, I couldn’t find a suitable answer to your question.",Product Availability,ask_product_availability,"buy mobile, phone selling, phones available"
+What payment methods do you accept?,"We accept cash on delivery, bKash, and all major credit/debit cards.",Payment,ask_payment_options,"payment methods, how to pay, bKash, card payment"
+How can I track my order?,You can track your order using the link sent via email after dispatch.,Order Tracking,track_order,"track package, order status, delivery status"
+Do you have customer support?,"Yes, our customer support is available from 9 AM to 9 PM every day.",Customer Support,contact_support,"help line, support number, call support, customer care"
+What are your business hours?,"Our business hours are from 10 AM to 8 PM, Monday to Saturday.",Business Hours,ask_hours,"working hours, open time, shop timing, operation hours"
+How long does delivery take?,Delivery takes 2–4 business days depending on your location.,Shipping,delivery_time,"delivery duration, when will I get my order, shipping time"
+Do you offer discounts or coupons?,"Yes, we frequently offer promotions. Subscribe to our newsletter to stay updated.",Promotions,ask_discounts,"promo, sale, discount, coupon, offer"
